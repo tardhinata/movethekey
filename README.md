@@ -15,7 +15,7 @@ Move The Key
 ![alt tag](http://ardhinata.com/projects/movethekey/MTK_menu.PNG)
 
 <h2>Game Play<h2> 
-![alt tag](http://ardhinata.com/projects/movethekey/MTK_playG)
+![alt tag](http://ardhinata.com/projects/movethekey/MTK_play.PNG)
 
 <h2>Map Maker Editor<h2> 
 ![alt tag](http://ardhinata.com/projects/movethekey/MTK_mapmaker.PNG)
