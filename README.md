@@ -1,7 +1,11 @@
 Move The Key
 ==========================
 
-2D Java game without game engine. Developed using AWT and Swing component.
+My old small project, 2D Java game without game engine. 
+Initially made as part of my bachelor lecture "Programming (Java)" assigment.
+
+Developed using AWT and Swing component, so as you may notice its not really library made for game.
+But since its just a part of lecture and we dont need to perform heavy computation for this kind of game (rendering, collision detection, etc), that will do quite nice :)
 
 <H1> Game Play </H1>
 
